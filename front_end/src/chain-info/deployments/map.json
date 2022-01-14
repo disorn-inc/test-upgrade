@@ -1,0 +1,20 @@
+{
+  "42": {
+    "MockToken": [
+      "0x9cf4aE8522727f1ca6d951750Cc240F65572e484"
+    ],
+    "ProxyAdmin": [
+      "0xe2Edd99960c49C40c16A500c7A69cA8b34dd16C7"
+    ],
+    "TokenFarmUP": [
+      "0x5Abc484AB9e8f123A10dFA566F8c7d5a4850bCE3"
+    ],
+    "TokenFarmV3": [
+      "0xdafa32CD0B8E259B35F9a13F290A6Bb3e55B18Cb",
+      "0x9B4A163DA28331BeE744cBBEF8E3F3590b51f069"
+    ],
+    "TransparentUpgradeableProxy": [
+      "0xDB141CfbcCD86004AdBBd02A7c6399DFaC3844c7"
+    ]
+  }
+}
